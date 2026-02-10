@@ -18,10 +18,8 @@
          <a href=mailto:yeonju.choe1005@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yeonju.choe1005@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-    </div>
+    </div><br>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooo2514&show_icons=true&theme=radical)    
-  </div> 
-    </div>
-
+<br>
     
